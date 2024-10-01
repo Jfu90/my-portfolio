@@ -1,0 +1,1 @@
+import{_ as t}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{c as n,b as o,a as s}from"./index-CdEag-_6.js";const r={},c={class:"d-flex align-items-center justify-content-center vh-100"};function a(i,e){return s(),n("main",c,e[0]||(e[0]=[o("h1",null,"Oops! Not find page.",-1)]))}const _=t(r,[["render",a]]);export{_ as default};
