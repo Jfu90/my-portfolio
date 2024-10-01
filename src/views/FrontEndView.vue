@@ -33,7 +33,7 @@
         <div class="col-10 col-sm-4 project-img text-center align-content-enter">
           <template v-for="(img, key) of item.imgs" :key="key">
             <br v-if="key > 0" />
-            <img :src="`/public/images/${img}`" :alt="item.title" />
+            <img :src="`./images/${img}`" :alt="item.title" />
           </template>
           <ul class="triangle-item">
             <li v-for="(i, k) in 5" :key="k"></li>
