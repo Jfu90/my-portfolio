@@ -1,0 +1,1 @@
+import{_ as s}from"./_plugin-vue_export-helper-DlAUqK2U.js";import{a as e,c as r,h as _}from"./index-B2yt610y.js";const o={},a={class:"box"};function n(c,t){return e(),r("div",a)}const f=s(o,[["render",n]]),l={__name:"TestView",setup(c){return(t,i)=>(e(),_(f))}};export{l as default};
